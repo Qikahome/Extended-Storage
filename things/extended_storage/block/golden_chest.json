@@ -1,0 +1,109 @@
+{
+  "type": "jsonmore:container",
+  "slots": 81,
+  "map_color": "gold",
+  "explosion_resistance": 6,
+  "destroy_time": 5,
+  "sound_type": "metal",
+  "ignited_by_lava": false,
+
+  "open_sound": "minecraft:block.chest.open",
+  "close_sound": "minecraft:block.chest.close",
+  "can_waterlogged": true,
+  "directions": "facing_horizontal",
+  "anger_piglins": true,
+  "blocked": "up",
+  "screen": {
+    "[0,54]": "jsonmore:chest",
+    "[55,)": "cyclopscore:scrolling"
+  },
+  "expandable": [
+    "x",
+    "y",
+    "z"
+  ],
+  "connectable": "extended_storage:chests/normal",
+  "properties": {
+    "facing": "facing",
+    "part": "jsonmore:container_part"
+  },
+  "shape_rotation": "facing",
+  "shape": [
+    [
+      1,
+      0,
+      1,
+      15,
+      14,
+      15
+    ],
+    {
+      "when": {
+        "part": "bottom"
+      },
+      "shape": [
+        1,
+        14,
+        1,
+        15,
+        16,
+        15
+      ]
+    },
+    {
+      "when": {
+        "part": "right"
+      },
+      "shape": [
+        0,
+        0,
+        1,
+        1,
+        14,
+        15
+      ]
+    },
+    {
+      "when": {
+        "part": "left"
+      },
+      "shape": [
+        15,
+        0,
+        1,
+        16,
+        14,
+        15
+      ]
+    },
+    {
+      "when": {
+        "part": "back"
+      },
+      "shape": [
+        1,
+        0,
+        0,
+        15,
+        14,
+        1
+      ]
+    },
+    {
+      "when": {
+        "part": "front"
+      },
+      "shape": [
+        1,
+        0,
+        15,
+        15,
+        14,
+        16
+      ]
+    }
+  ],
+  "item": true,
+  "replaceable": false,
+  "push_reaction": "block"
+}

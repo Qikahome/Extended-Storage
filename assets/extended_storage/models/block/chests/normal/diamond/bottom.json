@@ -1,0 +1,7 @@
+{
+  "parent": "extended_storage:block/chests/normal/bottom",
+  "textures": {
+    "texture": "extended_storage:block/chests/normal/diamond",
+    "particle": "minecraft:block/diamond_block"
+  }
+}

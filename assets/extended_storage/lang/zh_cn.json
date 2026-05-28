@@ -1,0 +1,11 @@
+{
+  "description.extended_storage.pack": "拓展存储的数据和资源",
+  "extended_storage.tab": "拓展存储",
+
+  "block.extended_storage.wooden_chest": "木箱子",
+  "block.extended_storage.iron_chest": "铁箱子",
+  "block.extended_storage.golden_chest": "金箱子",
+  "block.extended_storage.diamond_chest": "钻石箱子",
+  "block.extended_storage.debris_chest": "残骸箱子",
+  "block.extended_storage.netherite_chest": "下界合金箱子"
+}

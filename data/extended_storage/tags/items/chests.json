@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#extended_storage:chests/wooden",
+    "#extended_storage:chests/metal",
+    "#extended_storage:chests/normal",
+    "#extended_storage:chests/old"
+  ]
+}

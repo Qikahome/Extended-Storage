@@ -1,0 +1,29 @@
+modLoader="lowcodefml"
+loaderVersion="*"
+issueTrackerURL="https://github.com/Qikahome/Tinkers-Waste/issues"
+license="MIT"
+[[mods]]
+    modId="extended_storage"
+    version="1.0.0"
+    displayName="Extended Storage"
+    description='''
+    Something Contains Item
+    '''
+[[dependencies.extended_storage]]
+    modId="cyclopscore"
+    mandatory=true
+    versionRange="*"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.tinkers_things]]
+    modId="jsonthings"
+    mandatory=true
+    versionRange="*"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.tinkers_things]]
+    modId="jsonmore"
+    mandatory=true
+    versionRange="[1.1.0,)"
+    ordering="NONE"
+    side="BOTH"

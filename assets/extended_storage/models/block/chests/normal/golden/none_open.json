@@ -1,0 +1,7 @@
+{
+  "parent": "extended_storage:block/chests/normal/none_open",
+  "textures": {
+    "texture": "extended_storage:block/chests/normal/golden",
+    "particle": "minecraft:block/gold_block"
+  }
+}

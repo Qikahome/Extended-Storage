@@ -1,0 +1,7 @@
+{
+  "parent": "extended_storage:block/chests/normal/bottom_open",
+  "textures": {
+    "texture": "extended_storage:block/chests/normal/iron",
+    "particle": "minecraft:block/iron_block"
+  }
+}

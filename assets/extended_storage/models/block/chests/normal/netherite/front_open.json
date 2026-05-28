@@ -1,0 +1,7 @@
+{
+  "parent": "extended_storage:block/chests/normal/front_open",
+  "textures": {
+    "texture": "extended_storage:block/chests/normal/netherite",
+    "particle": "minecraft:block/netherite_block"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "extended_storage:block/chests/normal/top_open",
+  "textures": {
+    "texture": "extended_storage:block/chests/normal/debris",
+    "particle": "minecraft:block/ancient_debris_side"
+  }
+}

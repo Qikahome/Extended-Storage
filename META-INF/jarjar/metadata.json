@@ -1,0 +1,15 @@
+{
+  "jars": [
+    {
+      "identifier": {
+        "group": "qikahome.jsonmore",
+        "artifact": "jsonmore"
+      },
+      "version": {
+        "range": "*",
+        "artifactVersion": "1.1.4"
+      },
+      "path": "META-INF/jarjar/jsonmore-1.1.4.jar"
+    }
+  ]
+}

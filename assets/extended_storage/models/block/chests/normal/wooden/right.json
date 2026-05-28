@@ -1,0 +1,7 @@
+{
+  "parent": "extended_storage:block/chests/normal/right",
+  "textures": {
+    "texture": "extended_storage:block/chests/normal/wooden",
+    "particle": "minecraft:block/oak_planks"
+  }
+}

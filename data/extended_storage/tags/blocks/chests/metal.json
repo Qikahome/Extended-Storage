@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "extended_storage:iron_chest",
+    "extended_storage:golden_chest",
+    "extended_storage:diamond_chest",
+    "extended_storage:debris_chest",
+    "extended_storage:netherite_chest"
+  ]
+}
