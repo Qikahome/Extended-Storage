@@ -15,13 +15,13 @@ license="MIT"
     versionRange="*"
     ordering="NONE"
     side="BOTH"
-[[dependencies.tinkers_things]]
+[[dependencies.extended_storage]]
     modId="jsonthings"
     mandatory=true
     versionRange="*"
     ordering="NONE"
     side="BOTH"
-[[dependencies.tinkers_things]]
+[[dependencies.extended_storage]]
     modId="jsonmore"
     mandatory=true
     versionRange="[1.1.0,)"
