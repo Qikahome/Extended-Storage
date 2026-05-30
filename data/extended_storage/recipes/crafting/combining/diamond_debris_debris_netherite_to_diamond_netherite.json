@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extended_storage:diamond_debris_chest_upgrade"
+    },
+    {
+      "item": "extended_storage:debris_netherite_chest_upgrade"
+    }
+  ],
+  "result": {
+    "item": "extended_storage:diamond_netherite_chest_upgrade"
+  }
+}

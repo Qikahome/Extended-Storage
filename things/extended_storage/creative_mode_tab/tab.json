@@ -6,6 +6,22 @@
     "extended_storage:golden_chest",
     "extended_storage:diamond_chest",
     "extended_storage:debris_chest",
-    "extended_storage:netherite_chest"
+    "extended_storage:netherite_chest",
+
+    "extended_storage:wood_iron_chest_upgrade",
+    "extended_storage:wood_gold_chest_upgrade",
+    "extended_storage:wood_diamond_chest_upgrade",
+    "extended_storage:wood_debris_chest_upgrade",
+    "extended_storage:wood_netherite_chest_upgrade",
+    "extended_storage:iron_gold_chest_upgrade",
+    "extended_storage:iron_diamond_chest_upgrade",
+    "extended_storage:iron_debris_chest_upgrade",
+    "extended_storage:iron_netherite_chest_upgrade",
+    "extended_storage:gold_diamond_chest_upgrade",
+    "extended_storage:gold_debris_chest_upgrade",
+    "extended_storage:gold_netherite_chest_upgrade",
+    "extended_storage:diamond_debris_chest_upgrade",
+    "extended_storage:diamond_netherite_chest_upgrade",
+    "extended_storage:debris_netherite_chest_upgrade"
   ]
 }

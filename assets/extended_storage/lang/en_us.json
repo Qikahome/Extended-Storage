@@ -7,5 +7,21 @@
   "block.extended_storage.golden_chest": "Golden Chest",
   "block.extended_storage.diamond_chest": "Diamond Chest",
   "block.extended_storage.debris_chest": "Debris Chest",
-  "block.extended_storage.netherite_chest": "Netherite Chest"
+  "block.extended_storage.netherite_chest": "Netherite Chest",
+
+  "item.extended_storage.wood_iron_chest_upgrade": "Wood to Iron Chest Upgrade",
+  "item.extended_storage.wood_gold_chest_upgrade": "Wood to Golden Chest Upgrade",
+  "item.extended_storage.wood_diamond_chest_upgrade": "Wood to Diamond Chest Upgrade",
+  "item.extended_storage.wood_debris_chest_upgrade": "Wood to Debris Chest Upgrade",
+  "item.extended_storage.wood_netherite_chest_upgrade": "Wood to Netherite Chest Upgrade",
+  "item.extended_storage.iron_gold_chest_upgrade": "Iron to Golden Chest Upgrade",
+  "item.extended_storage.iron_diamond_chest_upgrade": "Iron to Diamond Chest Upgrade",
+  "item.extended_storage.iron_debris_chest_upgrade": "Iron to Debris Chest Upgrade",
+  "item.extended_storage.iron_netherite_chest_upgrade": "Iron to Netherite Chest Upgrade",
+  "item.extended_storage.gold_diamond_chest_upgrade": "Golden to Diamond Chest Upgrade",
+  "item.extended_storage.gold_debris_chest_upgrade": "Golden to Debris Chest Upgrade",
+  "item.extended_storage.gold_netherite_chest_upgrade": "Golden to Netherite Chest Upgrade",
+  "item.extended_storage.diamond_debris_chest_upgrade": "Diamond to Debris Chest Upgrade",
+  "item.extended_storage.diamond_netherite_chest_upgrade": "Diamond to Netherite Chest Upgrade",
+  "item.extended_storage.debris_netherite_chest_upgrade": "Debris to Netherite Chest Upgrade"
 }

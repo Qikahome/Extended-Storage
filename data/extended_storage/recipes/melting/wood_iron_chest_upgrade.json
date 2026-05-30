@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "extended_storage:wood_iron_chest_upgrade"
+  },
+  "result": {
+    "amount": 720,
+    "tag": "forge:molten_iron"
+  },
+  "temperature": 800,
+  "time": 160
+}

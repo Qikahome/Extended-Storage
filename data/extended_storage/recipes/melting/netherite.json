@@ -9,7 +9,7 @@
   },
   "byproducts": [
     {
-      "amount": 1500,
+      "amount": 1100,
       "fluid": "tconstruct:molten_diamond"
     },
     {
@@ -21,6 +21,6 @@
       "fluid": "tconstruct:molten_iron"
     }
   ],
-  "temperature": 1900,
+  "temperature": 1250,
   "time": 280
 }

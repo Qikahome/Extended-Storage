@@ -7,5 +7,21 @@
   "block.extended_storage.golden_chest": "金箱子",
   "block.extended_storage.diamond_chest": "钻石箱子",
   "block.extended_storage.debris_chest": "残骸箱子",
-  "block.extended_storage.netherite_chest": "下界合金箱子"
+  "block.extended_storage.netherite_chest": "下界合金箱子",
+
+  "item.extended_storage.wood_iron_chest_upgrade": "木-铁箱子升级",
+  "item.extended_storage.wood_gold_chest_upgrade": "木-金箱子升级",
+  "item.extended_storage.wood_diamond_chest_upgrade": "木-钻石箱子升级",
+  "item.extended_storage.wood_debris_chest_upgrade": "木-残骸箱子升级",
+  "item.extended_storage.wood_netherite_chest_upgrade": "木-下界合金箱子升级",
+  "item.extended_storage.iron_gold_chest_upgrade": "铁-金箱子升级",
+  "item.extended_storage.iron_diamond_chest_upgrade": "铁-钻石箱子升级",
+  "item.extended_storage.iron_debris_chest_upgrade": "铁-残骸箱子升级",
+  "item.extended_storage.iron_netherite_chest_upgrade": "铁-下界合金箱子升级",
+  "item.extended_storage.gold_diamond_chest_upgrade": "金-钻石箱子升级",
+  "item.extended_storage.gold_debris_chest_upgrade": "金-残骸箱子升级",
+  "item.extended_storage.gold_netherite_chest_upgrade": "金-下界合金箱子升级",
+  "item.extended_storage.diamond_debris_chest_upgrade": "钻石-残骸箱子升级",
+  "item.extended_storage.diamond_netherite_chest_upgrade": "钻石-下界合金箱子升级",
+  "item.extended_storage.debris_netherite_chest_upgrade": "残骸-下界合金箱子升级"
 }

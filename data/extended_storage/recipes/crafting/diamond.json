@@ -10,9 +10,9 @@
     }
   },
   "pattern": [
-    "###",
+    " # ",
     "#X#",
-    "###"
+    " # "
   ],
   "result": {
     "item": "extended_storage:diamond_chest"

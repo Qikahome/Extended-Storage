@@ -6,7 +6,7 @@
   "cast_consumed": true,
   "cooling_time": 200,
   "fluid": {
-    "amount": 800,
+    "amount": 400,
     "fluid": "tconstruct:molten_diamond"
   },
   "result": "extended_storage:diamond_chest"

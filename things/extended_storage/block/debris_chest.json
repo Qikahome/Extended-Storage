@@ -1,6 +1,6 @@
 {
   "type": "jsonmore:container",
-  "slots": 108,
+  "slots": 117,
   "map_color": "metal",
   "explosion_resistance": 1200,
   "destroy_time": 30,

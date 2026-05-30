@@ -1,0 +1,21 @@
+{
+  "type": "jsonmore:item_application",
+  "block": {
+    "type": "jsonmore:nbt_copy",
+    "ingredient": [
+      { "item": "extended_storage:wooden_chest" },
+      { "item": "minecraft:chest" }
+    ],
+    "mode": "REPLACE"
+  },
+  "tool": {
+    "item": "extended_storage:wood_debris_chest_upgrade"
+  },
+  "result": {
+    "item": "extended_storage:debris_chest"
+  },
+  "drop_container": false,
+  "keep_block_state": true,
+  "update_block": false,
+  "sneaking": true
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extended_storage:wood_gold_chest_upgrade"
+    },
+    {
+      "item": "extended_storage:gold_netherite_chest_upgrade"
+    }
+  ],
+  "result": {
+    "item": "extended_storage:wood_netherite_chest_upgrade"
+  }
+}
