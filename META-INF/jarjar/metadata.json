@@ -6,7 +6,7 @@
         "artifact": "jsonmore"
       },
       "version": {
-        "range": "*",
+        "range": "[1.1.5,)",
         "artifactVersion": "1.1.5"
       },
       "path": "META-INF/jarjar/jsonmore-1.1.5.jar"
