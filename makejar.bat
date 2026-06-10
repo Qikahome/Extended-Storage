@@ -7,7 +7,7 @@ echo ==============================================
 echo          我的世界模组Jar自动打包工具
 echo ==============================================
 echo ?? 注意：本批处理必须放在以下文件/文件夹的同级目录运行！
-echo    assets、data、LICENSE、META-INF、pack.mcmeta、things
+echo    assets、data、LICENSE、META-INF、pack.mcmeta、things、logo.png
 echo ==============================================
 echo.
 
@@ -39,7 +39,7 @@ echo.
 
 :: #################### 核心打包命令（jar命令，打包指定文件/文件夹） ####################
 :: jar cf ：c=创建Jar，f=指定Jar文件名，后面跟需要打包的所有文件/文件夹（严格对应你的列表）
-jar cf "%JAR_NAME%" assets data LICENSE META-INF pack.mcmeta things
+jar cf "%JAR_NAME%" assets data LICENSE META-INF pack.mcmeta things logo.png
 
 :: #################### 打包结果判断 ####################
 if exist "%JAR_NAME%" (
