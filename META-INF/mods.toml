@@ -1,10 +1,10 @@
 modLoader="lowcodefml"
 loaderVersion="*"
-issueTrackerURL="https://github.com/Qikahome/Tinkers-Waste/issues"
+issueTrackerURL="https://github.com/Qikahome/Extended-Storage/issues"
 license="MIT"
 [[mods]]
     modId="extended_storage"
-    version="1.1.0"
+    version="1.1.1"
     displayName="Extended Storage"
     description='''
     Something Contains Item
