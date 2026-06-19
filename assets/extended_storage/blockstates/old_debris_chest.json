@@ -1,0 +1,112 @@
+﻿{
+  "variants": {
+    "facing=east,part=none": {
+      "model": "extended_storage:block/chests/old/debris/none"
+    },
+    "facing=east,part=back": {
+      "model": "extended_storage:block/chests/old/debris/back"
+    },
+    "facing=east,part=front": {
+      "model": "extended_storage:block/chests/old/debris/front"
+    },
+    "facing=east,part=top": {
+      "model": "extended_storage:block/chests/old/debris/top"
+    },
+    "facing=east,part=bottom": {
+      "model": "extended_storage:block/chests/old/debris/bottom"
+    },
+    "facing=east,part=left": {
+      "model": "extended_storage:block/chests/old/debris/left"
+    },
+    "facing=east,part=right": {
+      "model": "extended_storage:block/chests/old/debris/right"
+    },
+
+    "facing=north,part=none": {
+      "model": "extended_storage:block/chests/old/debris/none",
+      "y": 270
+    },
+    "facing=north,part=back": {
+      "model": "extended_storage:block/chests/old/debris/back",
+      "y": 270
+    },
+    "facing=north,part=front": {
+      "model": "extended_storage:block/chests/old/debris/front",
+      "y": 270
+    },
+    "facing=north,part=top": {
+      "model": "extended_storage:block/chests/old/debris/top",
+      "y": 270
+    },
+    "facing=north,part=bottom": {
+      "model": "extended_storage:block/chests/old/debris/bottom",
+      "y": 270
+    },
+    "facing=north,part=left": {
+      "model": "extended_storage:block/chests/old/debris/left",
+      "y": 270
+    },
+    "facing=north,part=right": {
+      "model": "extended_storage:block/chests/old/debris/right",
+      "y": 270
+    },
+
+    "facing=south,part=none": {
+      "model": "extended_storage:block/chests/old/debris/none",
+      "y": 90
+    },
+    "facing=south,part=back": {
+      "model": "extended_storage:block/chests/old/debris/back",
+      "y": 90
+    },
+    "facing=south,part=front": {
+      "model": "extended_storage:block/chests/old/debris/front",
+      "y": 90
+    },
+    "facing=south,part=top": {
+      "model": "extended_storage:block/chests/old/debris/top",
+      "y": 90
+    },
+    "facing=south,part=bottom": {
+      "model": "extended_storage:block/chests/old/debris/bottom",
+      "y": 90
+    },
+    "facing=south,part=left": {
+      "model": "extended_storage:block/chests/old/debris/left",
+      "y": 90
+    },
+    "facing=south,part=right": {
+      "model": "extended_storage:block/chests/old/debris/right",
+      "y": 90
+    },
+
+    "facing=west,part=none": {
+      "model": "extended_storage:block/chests/old/debris/none",
+      "y": 180
+    },
+    "facing=west,part=back": {
+      "model": "extended_storage:block/chests/old/debris/back",
+      "y": 180
+    },
+    "facing=west,part=front": {
+      "model": "extended_storage:block/chests/old/debris/front",
+      "y": 180
+    },
+    "facing=west,part=top": {
+      "model": "extended_storage:block/chests/old/debris/top",
+      "y": 180
+    },
+    "facing=west,part=bottom": {
+      "model": "extended_storage:block/chests/old/debris/bottom",
+      "y": 180
+    },
+    "facing=west,part=left": {
+      "model": "extended_storage:block/chests/old/debris/left",
+      "y": 180
+    },
+    "facing=west,part=right": {
+      "model": "extended_storage:block/chests/old/debris/right",
+      "y": 180
+    }
+  }
+}

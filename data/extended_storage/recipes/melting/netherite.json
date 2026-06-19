@@ -1,8 +1,16 @@
-{
+﻿{
   "type": "tconstruct:melting",
-  "ingredient": {
-    "item": "extended_storage:netherite_chest"
-  },
+  "ingredient": [
+    {
+      "item": "extended_storage:netherite_chest"
+    },
+    {
+      "item": "extended_storage:old_netherite_chest"
+    },
+    {
+      "item": "extended_storage:netherite_barrel"
+    }
+  ],
   "result": {
     "amount": 90,
     "fluid": "tconstruct:molten_netherite"

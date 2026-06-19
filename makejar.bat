@@ -23,7 +23,7 @@ if not defined VERSION (
 )
 
 :: #################### 定义Jar包文件名 ####################
-set "JAR_NAME=Extended-Storage-1.20.1-%VERSION%.jar"
+set "JAR_NAME=Extended-Storage-1.20.1-%VERSION%.jar" 
 echo.?? 即将打包生成：%JAR_NAME%
 echo.?? 正在检查Java环境（需要jar命令）...
 
@@ -39,7 +39,7 @@ echo.
 
 :: #################### 核心打包命令（jar命令，打包指定文件/文件夹） ####################
 :: jar cf ：c=创建Jar，f=指定Jar文件名，后面跟需要打包的所有文件/文件夹（严格对应你的列表）
-jar cf "%JAR_NAME%" assets data LICENSE META-INF pack.mcmeta things logo.png
+jar cf "%JAR_NAME%" assets data LICENSE META-INF pack.mcmeta things pack.png datapacks
 
 :: #################### 打包结果判断 ####################
 if exist "%JAR_NAME%" (

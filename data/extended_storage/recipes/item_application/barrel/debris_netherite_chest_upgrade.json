@@ -1,0 +1,20 @@
+{
+  "type": "jsonmore:item_application",
+  "block": {
+    "type": "jsonmore:nbt_copy",
+    "ingredient": {
+      "item": "extended_storage:debris_barrel"
+    },
+    "mode": "REPLACE"
+  },
+  "tool": {
+    "item": "extended_storage:debris_netherite_chest_upgrade"
+  },
+  "result": {
+    "item": "extended_storage:netherite_barrel"
+  },
+  "drop_container": false,
+  "keep_block_state": true,
+  "update_block": false,
+  "sneaking": true
+}

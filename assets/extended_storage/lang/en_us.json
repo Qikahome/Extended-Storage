@@ -1,5 +1,7 @@
 {
   "description.extended_storage.pack": "Data and resources for Extended Storage",
+  "pack.extended_storage.connecting": "Connecting",
+  "pack.extended_storage.connecting.description": "Make any two containers connectable.",
   "extended_storage.tab": "Extended Storage",
 
   "block.extended_storage.wooden_chest": "Wooden Chest",
@@ -8,6 +10,20 @@
   "block.extended_storage.diamond_chest": "Diamond Chest",
   "block.extended_storage.debris_chest": "Debris Chest",
   "block.extended_storage.netherite_chest": "Netherite Chest",
+  
+  "block.extended_storage.old_wooden_chest": "Old Wooden Chest",
+  "block.extended_storage.old_iron_chest": "Old Iron Chest",
+  "block.extended_storage.old_golden_chest": "Old Golden Chest",
+  "block.extended_storage.old_diamond_chest": "Old Diamond Chest",
+  "block.extended_storage.old_debris_chest": "Old Debris Chest",
+  "block.extended_storage.old_netherite_chest": "Old Netherite Chest",
+
+  "block.extended_storage.wooden_barrel": "Wooden Barrel",
+  "block.extended_storage.iron_barrel": "Iron Barrel",
+  "block.extended_storage.golden_barrel": "Golden Barrel",
+  "block.extended_storage.diamond_barrel": "Diamond Barrel",
+  "block.extended_storage.debris_barrel": "Debris Barrel",
+  "block.extended_storage.netherite_barrel": "Netherite Barrel",
 
   "item.extended_storage.wood_iron_chest_upgrade": "Wood to Iron Chest Upgrade",
   "item.extended_storage.wood_gold_chest_upgrade": "Wood to Golden Chest Upgrade",

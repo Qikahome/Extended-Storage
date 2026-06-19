@@ -1,0 +1,7 @@
+{
+    "display_name": {
+        "type": "translatable",
+        "translate": "pack.extended_storage.connecting",
+        "fallback": "Connecting"
+    }
+}

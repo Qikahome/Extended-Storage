@@ -1,0 +1,7 @@
+﻿{
+  "parent": "extended_storage:block/barrels/back",
+  "textures": {
+    "0": "extended_storage:block/barrels/diamond",
+    "particle": "minecraft:block/diamond_block"
+  }
+}

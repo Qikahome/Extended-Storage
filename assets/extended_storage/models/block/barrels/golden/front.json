@@ -1,0 +1,7 @@
+{
+  "parent": "extended_storage:block/barrels/front",
+  "textures": {
+    "0": "extended_storage:block/barrels/golden",
+    "particle": "minecraft:block/gold_block"
+  }
+}

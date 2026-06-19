@@ -1,8 +1,16 @@
-{
+﻿{
   "type": "tconstruct:melting",
-  "ingredient": {
-    "item": "extended_storage:iron_chest"
-  },
+  "ingredient": [
+    {
+      "item": "extended_storage:iron_chest"
+    },
+    {
+      "item": "extended_storage:old_iron_chest"
+    },
+    {
+      "item": "extended_storage:iron_barrel"
+    }
+  ],
   "result": {
     "amount": 720,
     "tag": "forge:molten_iron"

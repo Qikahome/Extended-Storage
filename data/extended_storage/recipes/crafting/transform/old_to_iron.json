@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "extended_storage:old_iron_chest"
+    }
+  },
+  "pattern": [
+    "X"
+  ],
+  "result": {
+    "item": "extended_storage:iron_chest"
+  }
+}

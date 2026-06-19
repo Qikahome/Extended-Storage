@@ -1,10 +1,10 @@
 {
   "type": "jsonmore:container",
   "slots": 117,
-  "map_color": "metal",
+  "map_color": "color_black",
   "explosion_resistance": 1200,
   "destroy_time": 30,
-  "sound_type": "metal",
+  "sound_type": "ancient_debris",
   "ignited_by_lava": false,
 
   "open_sound": "minecraft:block.chest.open",

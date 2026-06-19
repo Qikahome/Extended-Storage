@@ -1,0 +1,7 @@
+{
+  "parent": "extended_storage:block/barrels/none",
+  "textures": {
+    "0": "extended_storage:block/barrels/wooden",
+    "particle": "minecraft:block/oak_planks"
+  }
+}

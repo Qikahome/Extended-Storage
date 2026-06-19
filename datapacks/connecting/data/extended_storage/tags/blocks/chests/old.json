@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "extended_storage:wooden_chest",
+    "extended_storage:iron_chest",
+    "extended_storage:golden_chest",
+    "extended_storage:diamond_chest",
+    "extended_storage:debris_chest",
+    "extended_storage:netherite_chest",
+    "extended_storage:wooden_barrel",
+    "extended_storage:iron_barrel",
+    "extended_storage:golden_barrel",
+    "extended_storage:diamond_barrel",
+    "extended_storage:debris_barrel",
+    "extended_storage:netherite_barrel"
+  ]
+}

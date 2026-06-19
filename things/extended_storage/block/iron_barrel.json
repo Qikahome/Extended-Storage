@@ -1,0 +1,29 @@
+﻿{
+  "type": "jsonmore:container",
+  "slots": 54,
+  "map_color": "metal",
+  "explosion_resistance": 6,
+  "destroy_time": 5,
+  "sound_type": "metal",
+  "ignited_by_lava": false,
+
+  "open_sound": "minecraft:block.barrel.open",
+  "close_sound": "minecraft:block.barrel.close",
+  "can_waterlogged": false,
+  "directions": "facing_all",
+  "anger_piglins": true,
+  "screen": {
+    "[0,54]": "jsonmore:chest",
+    "[55,)": "cyclopscore:scrolling"
+  },
+  "expandable": ["z"],
+  "connectable": "extended_storage:barrels",
+  "properties": {
+    "facing": "facing",
+    "part": "jsonmore:container_part"
+  },
+  
+  "item": true,
+  "replaceable": false,
+  "push_reaction": "block"
+}

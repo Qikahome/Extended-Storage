@@ -1,8 +1,16 @@
-{
+﻿{
   "type": "tconstruct:melting",
-  "ingredient": {
-    "item": "extended_storage:golden_chest"
-  },
+  "ingredient": [
+    {
+      "item": "extended_storage:golden_chest"
+    },
+    {
+      "item": "extended_storage:old_golden_chest"
+    },
+    {
+      "item": "extended_storage:golden_barrel"
+    }
+  ],
   "result": {
     "amount": 720,
     "tag": "forge:molten_gold"

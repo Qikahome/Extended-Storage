@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "#extended_storage:chests/metal"
+    "#extended_storage:chests/metal",
+    "#extended_storage:barrels/metal"
   ]
 }

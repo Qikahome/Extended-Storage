@@ -11,7 +11,7 @@
 			"name": "body",
 			"from": [0, 0, 1],
 			"to": [3, 9, 15],
-			"rotation": {"angle": 0, "axis": "y", "origin": [5, 14, 8]},
+
 			"faces": {
 				"north": {"uv": [9.5, 10.75, 8.75, 8.25], "texture": "#texture"},
 				"east": {"uv": [16, 16, 12.5, 13.5], "texture": "#texture"},
@@ -25,7 +25,7 @@
 			"name": "body",
 			"from": [3, 0, 1],
 			"to": [15, 9, 15],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14, 8]},
+
 			"faces": {
 				"north": {"uv": [10.5, 10.75, 7.5, 8.25], "texture": "#texture"},
 				"east": {"uv": [14, 10.75, 10.5, 8.25], "texture": "#texture"},

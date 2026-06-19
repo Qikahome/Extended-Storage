@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "#extended_storage:chests/wooden"
+    "#extended_storage:chests/wooden",
+    "#extended_storage:barrels/wooden"
   ]
 }
