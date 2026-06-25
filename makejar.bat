@@ -23,7 +23,7 @@ if not defined VERSION (
 )
 
 :: #################### 定义Jar包文件名 ####################
-set "JAR_NAME=Extended-Storage-1.20.1-%VERSION%.jar" 
+set "JAR_NAME=Extended-Storage-1.21.1-%VERSION%.jar" 
 echo.?? 即将打包生成：%JAR_NAME%
 echo.?? 正在检查Java环境（需要jar命令）...
 

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "type": "neoforge:difference",
+      "base": { "tag": "c:barrels/wooden" },
+      "subtracted": { "item": "extended_storage:wooden_barrel" }
+    }
+  },
+  "pattern": [
+    "X"
+  ],
+  "result": {
+    "id": "extended_storage:wooden_barrel"
+  }
+}

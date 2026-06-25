@@ -1,0 +1,26 @@
+{
+  "type": "jsonmore:shaped_consuming",
+  "pattern": [
+    "#",
+    "*",
+    "@"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "*": {
+      "type": "jsonmore:counted",
+      "ingredient": {
+        "tag": "c:gems/diamond"
+      },
+      "count": 0
+    },
+    "@": {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    }
+  },
+  "result": {
+    "id": "extended_storage:diamond_netherite_chest_upgrade"
+  }
+}

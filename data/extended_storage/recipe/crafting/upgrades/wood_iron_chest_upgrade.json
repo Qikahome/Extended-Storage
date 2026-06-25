@@ -1,0 +1,23 @@
+{
+  "type": "jsonmore:shaped_consuming",
+  "pattern": [
+    "###",
+    "#*#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/iron"
+    },
+    "*": {
+      "type": "jsonmore:counted",
+      "ingredient": {
+        "tag": "minecraft:planks"
+      },
+      "count": 0
+    }
+  },
+  "result": {
+    "id": "extended_storage:wood_iron_chest_upgrade"
+  }
+}

@@ -1,6 +1,6 @@
 {
     "pack": {
         "description": {"type":"translatable","translate":"pack.extended_storage.connecting.description","fallback":"Make any two containers connectable."},
-        "pack_format": 15
+        "pack_format": 48
     }
 }

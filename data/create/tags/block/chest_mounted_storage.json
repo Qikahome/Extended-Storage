@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#extended_storage:barrels",
+    "#extended_storage:chests"
+  ]
+}

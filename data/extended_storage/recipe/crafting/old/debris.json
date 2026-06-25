@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "extended_storage:old_diamond_chest"
+    }
+  ],
+  "result": {
+    "id": "extended_storage:old_debris_chest"
+  }
+}

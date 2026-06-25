@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extended_storage:iron_gold_chest_upgrade"
+    },
+    {
+      "item": "extended_storage:gold_debris_chest_upgrade"
+    }
+  ],
+  "result": {
+    "id": "extended_storage:iron_debris_chest_upgrade"
+  }
+}

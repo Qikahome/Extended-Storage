@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "extended_storage:diamond_barrel"
+    }
+  ],
+  "result": {
+    "id": "extended_storage:debris_barrel"
+  }
+}

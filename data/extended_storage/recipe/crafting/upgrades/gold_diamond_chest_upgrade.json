@@ -1,0 +1,23 @@
+{
+  "type": "jsonmore:shaped_consuming",
+  "pattern": [
+    " # ",
+    "#*#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:gems/diamond"
+    },
+    "*": {
+      "type": "jsonmore:counted",
+      "ingredient": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 0
+    }
+  },
+  "result": {
+    "id": "extended_storage:gold_diamond_chest_upgrade"
+  }
+}

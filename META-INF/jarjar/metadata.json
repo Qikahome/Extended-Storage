@@ -9,7 +9,7 @@
         "range": "[1.2.4,)",
         "artifactVersion": "1.2.4"
       },
-      "path": "META-INF/jarjar/jsonmore-1.2.4.jar"
+      "path": "META-INF/jarjar/jsonmore-1.21.1-1.2.4.jar"
     }
   ]
 }
