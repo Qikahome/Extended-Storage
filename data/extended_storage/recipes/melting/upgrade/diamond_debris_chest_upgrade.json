@@ -1,5 +1,11 @@
 {
   "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
   "ingredient": {
     "item": "extended_storage:diamond_debris_chest_upgrade"
   },

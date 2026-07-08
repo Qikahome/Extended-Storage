@@ -6,6 +6,7 @@
     "extended_storage:golden_chest",
     "extended_storage:diamond_chest",
     "extended_storage:debris_chest",
-    "extended_storage:netherite_chest"
+    "extended_storage:netherite_chest",
+    "extended_storage:emerald_chest"
   ]
 }

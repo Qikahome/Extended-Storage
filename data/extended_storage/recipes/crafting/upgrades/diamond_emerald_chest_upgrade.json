@@ -1,0 +1,23 @@
+{
+  "type": "jsonmore:shaped_consuming",
+  "pattern": [
+    " # ",
+    "#*#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:gems/emerald"
+    },
+    "*": {
+      "type": "jsonmore:counted",
+      "ingredient": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 0
+    }
+  },
+  "result": {
+    "item": "extended_storage:diamond_emerald_chest_upgrade"
+  }
+}
