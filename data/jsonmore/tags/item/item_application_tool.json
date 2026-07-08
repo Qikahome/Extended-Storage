@@ -15,6 +15,10 @@
     "extended_storage:gold_netherite_chest_upgrade",
     "extended_storage:diamond_debris_chest_upgrade",
     "extended_storage:diamond_netherite_chest_upgrade",
-    "extended_storage:debris_netherite_chest_upgrade"
+    "extended_storage:debris_netherite_chest_upgrade",
+    "extended_storage:wood_emerald_chest_upgrade",
+    "extended_storage:iron_emerald_chest_upgrade",
+    "extended_storage:gold_emerald_chest_upgrade",
+    "extended_storage:diamond_emerald_chest_upgrade"
   ]
 }

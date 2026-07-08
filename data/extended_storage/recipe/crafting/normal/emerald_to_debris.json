@@ -1,0 +1,22 @@
+{
+  "type": "jsonmore:shapeless_consuming",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "type": "jsonmore:remainder_override",
+      "ingredient": {
+        "item": "extended_storage:emerald_chest"
+      },
+      "remainder_override": {
+        "id": "minecraft:emerald",
+        "Count": 4
+      }
+    }
+  ],
+  "result": {
+    "id": "extended_storage:debris_chest"
+  }
+}

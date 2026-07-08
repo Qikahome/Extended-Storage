@@ -39,5 +39,14 @@
   "item.extended_storage.gold_netherite_chest_upgrade": "Golden to Netherite Chest Upgrade",
   "item.extended_storage.diamond_debris_chest_upgrade": "Diamond to Debris Chest Upgrade",
   "item.extended_storage.diamond_netherite_chest_upgrade": "Diamond to Netherite Chest Upgrade",
-  "item.extended_storage.debris_netherite_chest_upgrade": "Debris to Netherite Chest Upgrade"
+  "item.extended_storage.debris_netherite_chest_upgrade": "Debris to Netherite Chest Upgrade",
+
+  "block.extended_storage.emerald_chest": "Emerald Chest",
+  "block.extended_storage.old_emerald_chest": "Old Emerald Chest",
+  "block.extended_storage.emerald_barrel": "Emerald Barrel",
+
+  "item.extended_storage.wood_emerald_chest_upgrade": "Wood to Emerald Chest Upgrade",
+  "item.extended_storage.iron_emerald_chest_upgrade": "Iron to Emerald Chest Upgrade",
+  "item.extended_storage.gold_emerald_chest_upgrade": "Golden to Emerald Chest Upgrade",
+  "item.extended_storage.diamond_emerald_chest_upgrade": "Diamond to Emerald Chest Upgrade"
 }

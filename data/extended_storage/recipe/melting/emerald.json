@@ -1,0 +1,40 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "item": "extended_storage:emerald_chest"
+    },
+    {
+      "item": "extended_storage:old_emerald_chest"
+    },
+    {
+      "item": "extended_storage:emerald_barrel"
+    }
+  ],
+  "result": {
+    "amount": 400,
+    "fluid": "tconstruct:molten_emerald"
+  },
+  "byproducts": [
+    {
+      "amount": 400,
+      "fluid": "tconstruct:molten_diamond"
+    },
+    {
+      "amount": 720,
+      "fluid": "tconstruct:molten_gold"
+    },
+    {
+      "amount": 720,
+      "fluid": "tconstruct:molten_iron"
+    }
+  ],
+  "temperature": 800,
+  "time": 200
+}
