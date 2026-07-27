@@ -1,112 +1,285 @@
-﻿{
-  "variants": {
-    "facing=east,part=none": {
-      "model": "extended_storage:block/chests/old/netherite/none"
+{
+  "multipart": [
+    {
+      "when": {
+        "facing": "east",
+        "part": "none"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/none"
+      }
     },
-    "facing=east,part=back": {
-      "model": "extended_storage:block/chests/old/netherite/back"
+    {
+      "when": {
+        "facing": "east",
+        "part": "back"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/back"
+      }
     },
-    "facing=east,part=front": {
-      "model": "extended_storage:block/chests/old/netherite/front"
+    {
+      "when": {
+        "facing": "east",
+        "part": "front"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/front"
+      }
     },
-    "facing=east,part=top": {
-      "model": "extended_storage:block/chests/old/netherite/top"
+    {
+      "when": {
+        "facing": "east",
+        "part": "top"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/top"
+      }
     },
-    "facing=east,part=bottom": {
-      "model": "extended_storage:block/chests/old/netherite/bottom"
+    {
+      "when": {
+        "facing": "east",
+        "part": "bottom"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/bottom"
+      }
     },
-    "facing=east,part=left": {
-      "model": "extended_storage:block/chests/old/netherite/left"
+    {
+      "when": {
+        "facing": "east",
+        "part": "left"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/left"
+      }
     },
-    "facing=east,part=right": {
-      "model": "extended_storage:block/chests/old/netherite/right"
+    {
+      "when": {
+        "facing": "east",
+        "part": "right"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/right"
+      }
     },
-
-    "facing=north,part=none": {
-      "model": "extended_storage:block/chests/old/netherite/none",
-      "y": 270
+    {
+      "when": {
+        "facing": "north",
+        "part": "none"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/none",
+        "y": 270
+      }
     },
-    "facing=north,part=back": {
-      "model": "extended_storage:block/chests/old/netherite/back",
-      "y": 270
+    {
+      "when": {
+        "facing": "north",
+        "part": "back"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/back",
+        "y": 270
+      }
     },
-    "facing=north,part=front": {
-      "model": "extended_storage:block/chests/old/netherite/front",
-      "y": 270
+    {
+      "when": {
+        "facing": "north",
+        "part": "front"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/front",
+        "y": 270
+      }
     },
-    "facing=north,part=top": {
-      "model": "extended_storage:block/chests/old/netherite/top",
-      "y": 270
+    {
+      "when": {
+        "facing": "north",
+        "part": "top"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/top",
+        "y": 270
+      }
     },
-    "facing=north,part=bottom": {
-      "model": "extended_storage:block/chests/old/netherite/bottom",
-      "y": 270
+    {
+      "when": {
+        "facing": "north",
+        "part": "bottom"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/bottom",
+        "y": 270
+      }
     },
-    "facing=north,part=left": {
-      "model": "extended_storage:block/chests/old/netherite/left",
-      "y": 270
+    {
+      "when": {
+        "facing": "north",
+        "part": "left"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/left",
+        "y": 270
+      }
     },
-    "facing=north,part=right": {
-      "model": "extended_storage:block/chests/old/netherite/right",
-      "y": 270
+    {
+      "when": {
+        "facing": "north",
+        "part": "right"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/right",
+        "y": 270
+      }
     },
-
-    "facing=south,part=none": {
-      "model": "extended_storage:block/chests/old/netherite/none",
-      "y": 90
+    {
+      "when": {
+        "facing": "south",
+        "part": "none"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/none",
+        "y": 90
+      }
     },
-    "facing=south,part=back": {
-      "model": "extended_storage:block/chests/old/netherite/back",
-      "y": 90
+    {
+      "when": {
+        "facing": "south",
+        "part": "back"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/back",
+        "y": 90
+      }
     },
-    "facing=south,part=front": {
-      "model": "extended_storage:block/chests/old/netherite/front",
-      "y": 90
+    {
+      "when": {
+        "facing": "south",
+        "part": "front"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/front",
+        "y": 90
+      }
     },
-    "facing=south,part=top": {
-      "model": "extended_storage:block/chests/old/netherite/top",
-      "y": 90
+    {
+      "when": {
+        "facing": "south",
+        "part": "top"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/top",
+        "y": 90
+      }
     },
-    "facing=south,part=bottom": {
-      "model": "extended_storage:block/chests/old/netherite/bottom",
-      "y": 90
+    {
+      "when": {
+        "facing": "south",
+        "part": "bottom"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/bottom",
+        "y": 90
+      }
     },
-    "facing=south,part=left": {
-      "model": "extended_storage:block/chests/old/netherite/left",
-      "y": 90
+    {
+      "when": {
+        "facing": "south",
+        "part": "left"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/left",
+        "y": 90
+      }
     },
-    "facing=south,part=right": {
-      "model": "extended_storage:block/chests/old/netherite/right",
-      "y": 90
+    {
+      "when": {
+        "facing": "south",
+        "part": "right"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/right",
+        "y": 90
+      }
     },
-
-    "facing=west,part=none": {
-      "model": "extended_storage:block/chests/old/netherite/none",
-      "y": 180
+    {
+      "when": {
+        "facing": "west",
+        "part": "none"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/none",
+        "y": 180
+      }
     },
-    "facing=west,part=back": {
-      "model": "extended_storage:block/chests/old/netherite/back",
-      "y": 180
+    {
+      "when": {
+        "facing": "west",
+        "part": "back"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/back",
+        "y": 180
+      }
     },
-    "facing=west,part=front": {
-      "model": "extended_storage:block/chests/old/netherite/front",
-      "y": 180
+    {
+      "when": {
+        "facing": "west",
+        "part": "front"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/front",
+        "y": 180
+      }
     },
-    "facing=west,part=top": {
-      "model": "extended_storage:block/chests/old/netherite/top",
-      "y": 180
+    {
+      "when": {
+        "facing": "west",
+        "part": "top"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/top",
+        "y": 180
+      }
     },
-    "facing=west,part=bottom": {
-      "model": "extended_storage:block/chests/old/netherite/bottom",
-      "y": 180
+    {
+      "when": {
+        "facing": "west",
+        "part": "bottom"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/bottom",
+        "y": 180
+      }
     },
-    "facing=west,part=left": {
-      "model": "extended_storage:block/chests/old/netherite/left",
-      "y": 180
+    {
+      "when": {
+        "facing": "west",
+        "part": "left"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/left",
+        "y": 180
+      }
     },
-    "facing=west,part=right": {
-      "model": "extended_storage:block/chests/old/netherite/right",
-      "y": 180
+    {
+      "when": {
+        "facing": "west",
+        "part": "right"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/old/netherite/right",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "connected": "true"
+      },
+      "apply": {
+        "model": "extended_storage:block/frame"
+      }
     }
-  }
+  ]
 }

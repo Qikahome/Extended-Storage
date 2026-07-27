@@ -1,0 +1,17 @@
+{
+  "type": "jsonmore:storage_connector",
+  "radius": 4,
+  "connectable": "extended_storage:containers",
+  "screen": "autosizedgui:auto",
+  "assemble_sound": "minecraft:block.beacon.activate",
+  "disassemble_sound": "minecraft:block.beacon.deactivate",
+  "open_sound": "extended_storage:connector_open",
+  "close_sound": "extended_storage:connector_close",
+  "destroy_time": 5.0,
+  "explosion_resistance": 6.0,
+  "item": {
+    "lore": [
+      {"translate": "lore.extended_storage.connector.usage"}
+    ]
+  }
+}

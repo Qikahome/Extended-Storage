@@ -1,0 +1,28 @@
+{
+    "connector_open": {
+        "subtitle": "subtitles.extended_storage.connector_open",
+        "sounds": [
+            {
+                "name": "minecraft:block/chest/open",
+                "pitch": 0.8
+            }
+        ]
+    },
+    "connector_close": {
+        "subtitle": "subtitles.extended_storage.connector_close",
+        "sounds": [
+            {
+                "name": "minecraft:block/chest/close1",
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:block/chest/close2",
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:block/chest/close3",
+                "pitch": 0.8
+            }
+        ]
+    }
+}

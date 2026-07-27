@@ -13,10 +13,7 @@
   "directions": "facing_horizontal",
   "anger_piglins": true,
   "blocked": "up",
-  "screen": {
-    "[0,54]": "jsonmore:chest",
-    "[55,)": "cyclopscore:scrolling"
-  },
+  "screen": "autosizedgui:auto",
   "expandable": [
     "x",
     "y",

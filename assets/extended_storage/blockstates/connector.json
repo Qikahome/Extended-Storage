@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "connected=false": {
+      "model": "extended_storage:block/connector"
+    },
+    "connected=true": {
+      "model": "extended_storage:block/connector_on"
+    }
+  }
+}

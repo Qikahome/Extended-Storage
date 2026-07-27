@@ -1,217 +1,614 @@
 {
-  "variants": {
-    "facing=east,open=false,part=none": {
-      "model": "extended_storage:block/chests/normal/golden/none"
+  "multipart": [
+    {
+      "when": {
+        "facing": "east",
+        "open": "false",
+        "part": "none"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/none"
+      }
     },
-    "facing=east,open=false,part=back": {
-      "model": "extended_storage:block/chests/normal/golden/back"
+    {
+      "when": {
+        "facing": "east",
+        "open": "false",
+        "part": "back"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/back"
+      }
     },
-    "facing=east,open=false,part=front": {
-      "model": "extended_storage:block/chests/normal/golden/front"
+    {
+      "when": {
+        "facing": "east",
+        "open": "false",
+        "part": "front"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/front"
+      }
     },
-    "facing=east,open=false,part=top": {
-      "model": "extended_storage:block/chests/normal/golden/top"
+    {
+      "when": {
+        "facing": "east",
+        "open": "false",
+        "part": "top"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/top"
+      }
     },
-    "facing=east,open=false,part=bottom": {
-      "model": "extended_storage:block/chests/normal/golden/bottom"
+    {
+      "when": {
+        "facing": "east",
+        "open": "false",
+        "part": "bottom"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/bottom"
+      }
     },
-    "facing=east,open=false,part=left": {
-      "model": "extended_storage:block/chests/normal/golden/left"
+    {
+      "when": {
+        "facing": "east",
+        "open": "false",
+        "part": "left"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/left"
+      }
     },
-    "facing=east,open=false,part=right": {
-      "model": "extended_storage:block/chests/normal/golden/right"
+    {
+      "when": {
+        "facing": "east",
+        "open": "false",
+        "part": "right"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/right"
+      }
     },
-    "facing=east,open=true,part=none": {
-      "model": "extended_storage:block/chests/normal/golden/none_open"
+    {
+      "when": {
+        "facing": "east",
+        "open": "true",
+        "part": "none"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/none_open"
+      }
     },
-    "facing=east,open=true,part=back": {
-      "model": "extended_storage:block/chests/normal/golden/back_open"
+    {
+      "when": {
+        "facing": "east",
+        "open": "true",
+        "part": "back"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/back_open"
+      }
     },
-    "facing=east,open=true,part=front": {
-      "model": "extended_storage:block/chests/normal/golden/front_open"
+    {
+      "when": {
+        "facing": "east",
+        "open": "true",
+        "part": "front"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/front_open"
+      }
     },
-    "facing=east,open=true,part=top": {
-      "model": "extended_storage:block/chests/normal/golden/top_open"
+    {
+      "when": {
+        "facing": "east",
+        "open": "true",
+        "part": "top"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/top_open"
+      }
     },
-    "facing=east,open=true,part=bottom": {
-      "model": "extended_storage:block/chests/normal/golden/bottom_open"
+    {
+      "when": {
+        "facing": "east",
+        "open": "true",
+        "part": "bottom"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/bottom_open"
+      }
     },
-    "facing=east,open=true,part=left": {
-      "model": "extended_storage:block/chests/normal/golden/left_open"
+    {
+      "when": {
+        "facing": "east",
+        "open": "true",
+        "part": "left"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/left_open"
+      }
     },
-    "facing=east,open=true,part=right": {
-      "model": "extended_storage:block/chests/normal/golden/right_open"
+    {
+      "when": {
+        "facing": "east",
+        "open": "true",
+        "part": "right"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/right_open"
+      }
     },
-
-    "facing=north,open=false,part=none": {
-      "model": "extended_storage:block/chests/normal/golden/none",
-      "y": 270
+    {
+      "when": {
+        "facing": "north",
+        "open": "false",
+        "part": "none"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/none",
+        "y": 270
+      }
     },
-    "facing=north,open=false,part=back": {
-      "model": "extended_storage:block/chests/normal/golden/back",
-      "y": 270
+    {
+      "when": {
+        "facing": "north",
+        "open": "false",
+        "part": "back"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/back",
+        "y": 270
+      }
     },
-    "facing=north,open=false,part=front": {
-      "model": "extended_storage:block/chests/normal/golden/front",
-      "y": 270
+    {
+      "when": {
+        "facing": "north",
+        "open": "false",
+        "part": "front"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/front",
+        "y": 270
+      }
     },
-    "facing=north,open=false,part=top": {
-      "model": "extended_storage:block/chests/normal/golden/top",
-      "y": 270
+    {
+      "when": {
+        "facing": "north",
+        "open": "false",
+        "part": "top"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/top",
+        "y": 270
+      }
     },
-    "facing=north,open=false,part=bottom": {
-      "model": "extended_storage:block/chests/normal/golden/bottom",
-      "y": 270
+    {
+      "when": {
+        "facing": "north",
+        "open": "false",
+        "part": "bottom"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/bottom",
+        "y": 270
+      }
     },
-    "facing=north,open=false,part=left": {
-      "model": "extended_storage:block/chests/normal/golden/left",
-      "y": 270
+    {
+      "when": {
+        "facing": "north",
+        "open": "false",
+        "part": "left"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/left",
+        "y": 270
+      }
     },
-    "facing=north,open=false,part=right": {
-      "model": "extended_storage:block/chests/normal/golden/right",
-      "y": 270
+    {
+      "when": {
+        "facing": "north",
+        "open": "false",
+        "part": "right"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/right",
+        "y": 270
+      }
     },
-    "facing=north,open=true,part=none": {
-      "model": "extended_storage:block/chests/normal/golden/none_open",
-      "y": 270
+    {
+      "when": {
+        "facing": "north",
+        "open": "true",
+        "part": "none"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/none_open",
+        "y": 270
+      }
     },
-    "facing=north,open=true,part=back": {
-      "model": "extended_storage:block/chests/normal/golden/back_open",
-      "y": 270
+    {
+      "when": {
+        "facing": "north",
+        "open": "true",
+        "part": "back"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/back_open",
+        "y": 270
+      }
     },
-    "facing=north,open=true,part=front": {
-      "model": "extended_storage:block/chests/normal/golden/front_open",
-      "y": 270
+    {
+      "when": {
+        "facing": "north",
+        "open": "true",
+        "part": "front"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/front_open",
+        "y": 270
+      }
     },
-    "facing=north,open=true,part=top": {
-      "model": "extended_storage:block/chests/normal/golden/top_open",
-      "y": 270
+    {
+      "when": {
+        "facing": "north",
+        "open": "true",
+        "part": "top"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/top_open",
+        "y": 270
+      }
     },
-    "facing=north,open=true,part=bottom": {
-      "model": "extended_storage:block/chests/normal/golden/bottom_open",
-      "y": 270
+    {
+      "when": {
+        "facing": "north",
+        "open": "true",
+        "part": "bottom"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/bottom_open",
+        "y": 270
+      }
     },
-    "facing=north,open=true,part=left": {
-      "model": "extended_storage:block/chests/normal/golden/left_open",
-      "y": 270
+    {
+      "when": {
+        "facing": "north",
+        "open": "true",
+        "part": "left"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/left_open",
+        "y": 270
+      }
     },
-    "facing=north,open=true,part=right": {
-      "model": "extended_storage:block/chests/normal/golden/right_open",
-      "y": 270
+    {
+      "when": {
+        "facing": "north",
+        "open": "true",
+        "part": "right"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/right_open",
+        "y": 270
+      }
     },
-
-    "facing=south,open=false,part=none": {
-      "model": "extended_storage:block/chests/normal/golden/none",
-      "y": 90
+    {
+      "when": {
+        "facing": "south",
+        "open": "false",
+        "part": "none"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/none",
+        "y": 90
+      }
     },
-    "facing=south,open=false,part=back": {
-      "model": "extended_storage:block/chests/normal/golden/back",
-      "y": 90
+    {
+      "when": {
+        "facing": "south",
+        "open": "false",
+        "part": "back"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/back",
+        "y": 90
+      }
     },
-    "facing=south,open=false,part=front": {
-      "model": "extended_storage:block/chests/normal/golden/front",
-      "y": 90
+    {
+      "when": {
+        "facing": "south",
+        "open": "false",
+        "part": "front"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/front",
+        "y": 90
+      }
     },
-    "facing=south,open=false,part=top": {
-      "model": "extended_storage:block/chests/normal/golden/top",
-      "y": 90
+    {
+      "when": {
+        "facing": "south",
+        "open": "false",
+        "part": "top"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/top",
+        "y": 90
+      }
     },
-    "facing=south,open=false,part=bottom": {
-      "model": "extended_storage:block/chests/normal/golden/bottom",
-      "y": 90
+    {
+      "when": {
+        "facing": "south",
+        "open": "false",
+        "part": "bottom"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/bottom",
+        "y": 90
+      }
     },
-    "facing=south,open=false,part=left": {
-      "model": "extended_storage:block/chests/normal/golden/left",
-      "y": 90
+    {
+      "when": {
+        "facing": "south",
+        "open": "false",
+        "part": "left"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/left",
+        "y": 90
+      }
     },
-    "facing=south,open=false,part=right": {
-      "model": "extended_storage:block/chests/normal/golden/right",
-      "y": 90
+    {
+      "when": {
+        "facing": "south",
+        "open": "false",
+        "part": "right"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/right",
+        "y": 90
+      }
     },
-    "facing=south,open=true,part=none": {
-      "model": "extended_storage:block/chests/normal/golden/none_open",
-      "y": 90
+    {
+      "when": {
+        "facing": "south",
+        "open": "true",
+        "part": "none"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/none_open",
+        "y": 90
+      }
     },
-    "facing=south,open=true,part=back": {
-      "model": "extended_storage:block/chests/normal/golden/back_open",
-      "y": 90
+    {
+      "when": {
+        "facing": "south",
+        "open": "true",
+        "part": "back"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/back_open",
+        "y": 90
+      }
     },
-    "facing=south,open=true,part=front": {
-      "model": "extended_storage:block/chests/normal/golden/front_open",
-      "y": 90
+    {
+      "when": {
+        "facing": "south",
+        "open": "true",
+        "part": "front"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/front_open",
+        "y": 90
+      }
     },
-    "facing=south,open=true,part=top": {
-      "model": "extended_storage:block/chests/normal/golden/top_open",
-      "y": 90
+    {
+      "when": {
+        "facing": "south",
+        "open": "true",
+        "part": "top"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/top_open",
+        "y": 90
+      }
     },
-    "facing=south,open=true,part=bottom": {
-      "model": "extended_storage:block/chests/normal/golden/bottom_open",
-      "y": 90
+    {
+      "when": {
+        "facing": "south",
+        "open": "true",
+        "part": "bottom"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/bottom_open",
+        "y": 90
+      }
     },
-    "facing=south,open=true,part=left": {
-      "model": "extended_storage:block/chests/normal/golden/left_open",
-      "y": 90
+    {
+      "when": {
+        "facing": "south",
+        "open": "true",
+        "part": "left"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/left_open",
+        "y": 90
+      }
     },
-    "facing=south,open=true,part=right": {
-      "model": "extended_storage:block/chests/normal/golden/right_open",
-      "y": 90
+    {
+      "when": {
+        "facing": "south",
+        "open": "true",
+        "part": "right"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/right_open",
+        "y": 90
+      }
     },
-
-    "facing=west,open=false,part=none": {
-      "model": "extended_storage:block/chests/normal/golden/none",
-      "y": 180
+    {
+      "when": {
+        "facing": "west",
+        "open": "false",
+        "part": "none"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/none",
+        "y": 180
+      }
     },
-    "facing=west,open=false,part=back": {
-      "model": "extended_storage:block/chests/normal/golden/back",
-      "y": 180
+    {
+      "when": {
+        "facing": "west",
+        "open": "false",
+        "part": "back"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/back",
+        "y": 180
+      }
     },
-    "facing=west,open=false,part=front": {
-      "model": "extended_storage:block/chests/normal/golden/front",
-      "y": 180
+    {
+      "when": {
+        "facing": "west",
+        "open": "false",
+        "part": "front"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/front",
+        "y": 180
+      }
     },
-    "facing=west,open=false,part=top": {
-      "model": "extended_storage:block/chests/normal/golden/top",
-      "y": 180
+    {
+      "when": {
+        "facing": "west",
+        "open": "false",
+        "part": "top"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/top",
+        "y": 180
+      }
     },
-    "facing=west,open=false,part=bottom": {
-      "model": "extended_storage:block/chests/normal/golden/bottom",
-      "y": 180
+    {
+      "when": {
+        "facing": "west",
+        "open": "false",
+        "part": "bottom"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/bottom",
+        "y": 180
+      }
     },
-    "facing=west,open=false,part=left": {
-      "model": "extended_storage:block/chests/normal/golden/left",
-      "y": 180
+    {
+      "when": {
+        "facing": "west",
+        "open": "false",
+        "part": "left"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/left",
+        "y": 180
+      }
     },
-    "facing=west,open=false,part=right": {
-      "model": "extended_storage:block/chests/normal/golden/right",
-      "y": 180
+    {
+      "when": {
+        "facing": "west",
+        "open": "false",
+        "part": "right"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/right",
+        "y": 180
+      }
     },
-    "facing=west,open=true,part=none": {
-      "model": "extended_storage:block/chests/normal/golden/none_open",
-      "y": 180
+    {
+      "when": {
+        "facing": "west",
+        "open": "true",
+        "part": "none"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/none_open",
+        "y": 180
+      }
     },
-    "facing=west,open=true,part=back": {
-      "model": "extended_storage:block/chests/normal/golden/back_open",
-      "y": 180
+    {
+      "when": {
+        "facing": "west",
+        "open": "true",
+        "part": "back"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/back_open",
+        "y": 180
+      }
     },
-    "facing=west,open=true,part=front": {
-      "model": "extended_storage:block/chests/normal/golden/front_open",
-      "y": 180
+    {
+      "when": {
+        "facing": "west",
+        "open": "true",
+        "part": "front"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/front_open",
+        "y": 180
+      }
     },
-    "facing=west,open=true,part=top": {
-      "model": "extended_storage:block/chests/normal/golden/top_open",
-      "y": 180
+    {
+      "when": {
+        "facing": "west",
+        "open": "true",
+        "part": "top"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/top_open",
+        "y": 180
+      }
     },
-    "facing=west,open=true,part=bottom": {
-      "model": "extended_storage:block/chests/normal/golden/bottom_open",
-      "y": 180
+    {
+      "when": {
+        "facing": "west",
+        "open": "true",
+        "part": "bottom"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/bottom_open",
+        "y": 180
+      }
     },
-    "facing=west,open=true,part=left": {
-      "model": "extended_storage:block/chests/normal/golden/left_open",
-      "y": 180
+    {
+      "when": {
+        "facing": "west",
+        "open": "true",
+        "part": "left"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/left_open",
+        "y": 180
+      }
     },
-    "facing=west,open=true,part=right": {
-      "model": "extended_storage:block/chests/normal/golden/right_open",
-      "y": 180
+    {
+      "when": {
+        "facing": "west",
+        "open": "true",
+        "part": "right"
+      },
+      "apply": {
+        "model": "extended_storage:block/chests/normal/golden/right_open",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "connected": "true"
+      },
+      "apply": {
+        "model": "extended_storage:block/frame"
+      }
     }
-  }
+  ]
 }
