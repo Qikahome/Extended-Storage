@@ -1,4 +1,4 @@
-﻿{
+{
   "type": "jsonmore:container",
   "slots": 54,
   "map_color": "metal",
@@ -12,10 +12,7 @@
   "can_waterlogged": false,
   "directions": "facing_all",
   "anger_piglins": true,
-  "screen": {
-    "[0,54]": "jsonmore:chest",
-    "[55,)": "cyclopscore:scrolling"
-  },
+  "screen": "autosizedgui:auto",
   "expandable": ["z"],
   "connectable": "extended_storage:barrels",
   "properties": {

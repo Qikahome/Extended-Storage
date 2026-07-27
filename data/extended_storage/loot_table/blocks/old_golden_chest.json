@@ -1,4 +1,4 @@
-﻿{
+{
   "type": "minecraft:block",
   "pools": [
     {
@@ -6,6 +6,16 @@
       "conditions": [
         {
           "condition": "minecraft:survives_explosion"
+        },
+        {
+          "condition": "minecraft:inverted",
+          "term": {
+            "condition": "minecraft:block_state_property",
+            "block": "extended_storage:old_golden_chest",
+            "properties": {
+              "connected": "true"
+            }
+          }
         }
       ],
       "entries": [

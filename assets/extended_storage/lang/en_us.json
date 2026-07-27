@@ -45,6 +45,11 @@
   "block.extended_storage.old_emerald_chest": "Old Emerald Chest",
   "block.extended_storage.emerald_barrel": "Emerald Barrel",
 
+  "block.extended_storage.connector": "Storage Connector",
+  "lore.extended_storage.connector.usage": "Sneak + Use to activate",
+  "subtitles.extended_storage.connector_open": "Connector opens",
+  "subtitles.extended_storage.connector_close": "Connector closes",
+
   "item.extended_storage.wood_emerald_chest_upgrade": "Wood to Emerald Chest Upgrade",
   "item.extended_storage.iron_emerald_chest_upgrade": "Iron to Emerald Chest Upgrade",
   "item.extended_storage.gold_emerald_chest_upgrade": "Golden to Emerald Chest Upgrade",
