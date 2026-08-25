@@ -2,7 +2,10 @@
   "type": "jsonmore:storage_connector",
   "radius": 4,
   "connectable": "extended_storage:containers",
-  "screen": "autosizedgui:auto",
+  "screen": {
+    "[1,2048]": "autosizedgui:auto",
+    "[2049,)": "jsonmore:not_supported"
+  },
   "assemble_sound": "minecraft:block.beacon.activate",
   "disassemble_sound": "minecraft:block.beacon.deactivate",
   "open_sound": "extended_storage:connector_open",
