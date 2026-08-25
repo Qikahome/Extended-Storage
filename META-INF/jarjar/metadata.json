@@ -6,10 +6,10 @@
         "artifact": "jsonmore"
       },
       "version": {
-        "range": "[1.2.7,)",
-        "artifactVersion": "1.2.7b"
+        "range": "[1.2.9c,)",
+        "artifactVersion": "1.2.9c"
       },
-      "path": "META-INF/jarjar/jsonmore-1.21.1-1.2.7.jar"
+      "path": "META-INF/jarjar/jsonmore-1.21.1-1.2.9c.jar"
     }
   ]
 }
