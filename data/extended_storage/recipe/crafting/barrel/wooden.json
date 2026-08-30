@@ -3,9 +3,14 @@
   "category": "misc",
   "key": {
     "X": {
-      "type": "neoforge:difference",
-      "base": { "tag": "c:barrels/wooden" },
-      "subtracted": { "item": "extended_storage:wooden_barrel" }
+      "type": "neoforge:and",
+      "values": [
+        "#c:barrels/wooden",
+        {
+          "type": "neoforge:not",
+          "value": "extended_storage:wooden_barrel"
+        }
+      ]
     }
   },
   "pattern": [

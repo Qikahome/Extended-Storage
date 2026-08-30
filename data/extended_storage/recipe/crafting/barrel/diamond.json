@@ -1,13 +1,9 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "c:gems/diamond"
-    },
-    "X": {
-      "item": "extended_storage:golden_barrel"
-    }
+    "#": "#c:gems/diamond",
+    "X": "extended_storage:golden_barrel"
   },
   "pattern": [
     " # ",
@@ -18,3 +14,4 @@
     "id": "extended_storage:diamond_barrel"
   }
 }
+

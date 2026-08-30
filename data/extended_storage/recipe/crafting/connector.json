@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "ici",
@@ -6,21 +6,11 @@
     "iji"
   ],
   "key": {
-    "i": {
-      "tag": "c:ingots/iron"
-    },
-    "c": {
-      "tag": "extended_storage:containers"
-    },
-    "d": {
-      "item": "minecraft:redstone_lamp"
-    },
-    "h": {
-      "item": "minecraft:hopper"
-    },
-    "j": {
-      "item": "minecraft:comparator"
-    }
+    "i": "#c:ingots/iron",
+    "c": "#extended_storage:containers",
+    "d": "minecraft:redstone_lamp",
+    "h": "minecraft:hopper",
+    "j": "minecraft:comparator"
   },
   "result": {
     "id": "extended_storage:connector"

@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
@@ -6,14 +6,11 @@
     "*"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:netherite_scrap"
-    },
-    "*": {
-      "item": "extended_storage:wood_diamond_chest_upgrade"
-    }
+    "#": "minecraft:netherite_scrap",
+    "*": "extended_storage:wood_diamond_chest_upgrade"
   },
   "result": {
     "id": "extended_storage:wood_debris_chest_upgrade"
   }
 }
+

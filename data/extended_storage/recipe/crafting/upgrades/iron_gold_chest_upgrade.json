@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "jsonmore:shaped_consuming",
   "pattern": [
     "###",
@@ -6,14 +6,10 @@
     "###"
   ],
   "key": {
-    "#": {
-      "tag": "c:ingots/gold"
-    },
+    "#": "#c:ingots/gold",
     "*": {
-      "type": "jsonmore:counted",
-      "ingredient": {
-        "tag": "c:ingots/iron"
-      },
+      "neoforge:ingredient_type": "jsonmore:counted",
+      "ingredient": "#c:ingots/iron",
       "count": 0
     }
   },
@@ -21,3 +17,4 @@
     "id": "extended_storage:iron_gold_chest_upgrade"
   }
 }
+

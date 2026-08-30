@@ -1,6 +1,8 @@
 {
     "pack": {
         "description": {"type":"translatable","translate":"description.extended_storage.pack","fallback":"Extended Storage"},
-        "pack_format": 34
+        "pack_format": 101,
+        "min_format": 101,
+        "max_format": 101
     }
 }

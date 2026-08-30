@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "jsonmore:shaped_consuming",
   "pattern": [
     "#",
@@ -7,28 +7,23 @@
   ],
   "key": {
     "#": {
-      "type": "jsonmore:counted",
-      "ingredient": {
-        "item": "minecraft:netherite_ingot"
-      },
+      "neoforge:ingredient_type": "jsonmore:counted",
+      "ingredient": "minecraft:netherite_ingot",
       "count": 1,
       "remainder_override": {
         "id": "minecraft:netherite_scrap",
-        "Count": 1
+        "count": 1
       }
     },
     "*": {
-      "type": "jsonmore:counted",
-      "ingredient": {
-        "item": "minecraft:netherite_scrap"
-      },
+      "neoforge:ingredient_type": "jsonmore:counted",
+      "ingredient": "minecraft:netherite_scrap",
       "count": 0
     },
-    "@": {
-      "item": "minecraft:netherite_upgrade_smithing_template"
-    }
+    "@": "minecraft:netherite_upgrade_smithing_template"
   },
   "result": {
     "id": "extended_storage:debris_netherite_chest_upgrade"
   }
 }
+

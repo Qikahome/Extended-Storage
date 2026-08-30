@@ -1,10 +1,8 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "X": {
-      "item": "extended_storage:iron_chest"
-    }
+    "X": "extended_storage:iron_chest"
   },
   "pattern": [
     "X"

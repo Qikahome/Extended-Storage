@@ -3,9 +3,14 @@
   "category": "misc",
   "key": {
     "X": {
-      "type": "neoforge:difference",
-      "base": { "tag": "c:chests/wooden" },
-      "subtracted": { "item": "extended_storage:wooden_chest" }
+      "type": "neoforge:and",
+      "values": [
+        "#c:chests/wooden",
+        {
+          "type": "neoforge:not",
+          "value": "extended_storage:wooden_chest"
+        }
+      ]
     }
   },
   "pattern": [

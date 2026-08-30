@@ -1,13 +1,9 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "c:ingots/iron"
-    },
-    "X": {
-      "item": "extended_storage:wooden_barrel"
-    }
+    "#": "#c:ingots/iron",
+    "X": "extended_storage:wooden_barrel"
   },
   "pattern": [
     "###",

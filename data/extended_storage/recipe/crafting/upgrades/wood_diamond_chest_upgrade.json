@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
@@ -7,14 +7,11 @@
     " # "
   ],
   "key": {
-    "#": {
-      "tag": "c:gems/diamond"
-    },
-    "*": {
-      "item": "extended_storage:wood_gold_chest_upgrade"
-    }
+    "#": "#c:gems/diamond",
+    "*": "extended_storage:wood_gold_chest_upgrade"
   },
   "result": {
     "id": "extended_storage:wood_diamond_chest_upgrade"
   }
 }
+

@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "jsonmore:shaped_consuming",
   "pattern": [
     " # ",
@@ -6,14 +6,10 @@
     " # "
   ],
   "key": {
-    "#": {
-      "tag": "c:gems/emerald"
-    },
+    "#": "#c:gems/emerald",
     "*": {
-      "type": "jsonmore:counted",
-      "ingredient": {
-        "tag": "c:gems/diamond"
-      },
+      "neoforge:ingredient_type": "jsonmore:counted",
+      "ingredient": "#c:gems/diamond",
       "count": 0
     }
   },
@@ -21,3 +17,4 @@
     "id": "extended_storage:diamond_emerald_chest_upgrade"
   }
 }
+

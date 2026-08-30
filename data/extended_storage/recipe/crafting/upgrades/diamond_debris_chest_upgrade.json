@@ -1,18 +1,14 @@
-{
+﻿{
   "type": "jsonmore:shaped_consuming",
   "pattern": [
     "#",
     "*"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:netherite_scrap"
-    },
+    "#": "minecraft:netherite_scrap",
     "*": {
-      "type": "jsonmore:counted",
-      "ingredient": {
-        "tag": "c:gems/diamond"
-      },
+      "neoforge:ingredient_type": "jsonmore:counted",
+      "ingredient": "#c:gems/diamond",
       "count": 0
     }
   },
@@ -20,3 +16,4 @@
     "id": "extended_storage:diamond_debris_chest_upgrade"
   }
 }
+

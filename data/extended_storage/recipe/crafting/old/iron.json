@@ -1,13 +1,9 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "c:ingots/iron"
-    },
-    "X": {
-      "item": "extended_storage:old_wooden_chest"
-    }
+    "#": "#c:ingots/iron",
+    "X": "extended_storage:old_wooden_chest"
   },
   "pattern": [
     "###",

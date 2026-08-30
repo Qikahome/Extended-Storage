@@ -1,18 +1,14 @@
-{
+﻿{
   "type": "jsonmore:shapeless_consuming",
   "category": "misc",
   "ingredients": [
+    "minecraft:netherite_scrap",
     {
-      "item": "minecraft:netherite_scrap"
-    },
-    {
-      "type": "jsonmore:remainder_override",
-      "ingredient": {
-        "item": "extended_storage:emerald_chest"
-      },
+      "neoforge:ingredient_type": "jsonmore:remainder_override",
+      "ingredient": "extended_storage:emerald_chest",
       "remainder_override": {
         "id": "minecraft:emerald",
-        "Count": 4
+        "count": 4
       }
     }
   ],
@@ -20,3 +16,4 @@
     "id": "extended_storage:debris_chest"
   }
 }
+

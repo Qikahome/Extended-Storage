@@ -1,15 +1,10 @@
-{
+﻿{
   "type": "minecraft:smithing_transform",
-  "addition": {
-    "item": "minecraft:netherite_ingot"
-  },
-  "base": {
-    "item": "extended_storage:diamond_barrel"
-  },
+  "addition": "minecraft:netherite_ingot",
+  "base": "extended_storage:diamond_barrel",
   "result": {
     "id": "extended_storage:netherite_barrel"
   },
-  "template": {
-    "item": "minecraft:netherite_upgrade_smithing_template"
-  }
+  "template": "minecraft:netherite_upgrade_smithing_template"
 }
+

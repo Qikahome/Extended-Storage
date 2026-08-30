@@ -1,10 +1,8 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "X": {
-      "item": "extended_storage:emerald_chest"
-    }
+    "X": "extended_storage:emerald_chest"
   },
   "pattern": [
     "X"
@@ -13,3 +11,4 @@
     "id": "extended_storage:old_emerald_chest"
   }
 }
+

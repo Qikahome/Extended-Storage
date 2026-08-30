@@ -1,4 +1,4 @@
-{
+﻿{
   "neoforge:conditions": [
     {
       "type": "neoforge:mod_loaded",
@@ -7,15 +7,9 @@
   ],
   "type": "tconstruct:melting",
   "ingredient": [
-    {
-      "item": "extended_storage:emerald_chest"
-    },
-    {
-      "item": "extended_storage:old_emerald_chest"
-    },
-    {
-      "item": "extended_storage:emerald_barrel"
-    }
+    "extended_storage:emerald_chest",
+    "extended_storage:old_emerald_chest",
+    "extended_storage:emerald_barrel"
   ],
   "result": {
     "amount": 400,
@@ -38,3 +32,4 @@
   "temperature": 800,
   "time": 200
 }
+

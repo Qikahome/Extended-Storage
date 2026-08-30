@@ -1,4 +1,4 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
@@ -7,17 +7,12 @@
     "@"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:netherite_ingot"
-    },
-    "*": {
-      "item": "extended_storage:wood_diamond_chest_upgrade"
-    },
-    "@": {
-      "item": "minecraft:netherite_upgrade_smithing_template"
-    }
+    "#": "minecraft:netherite_ingot",
+    "*": "extended_storage:wood_diamond_chest_upgrade",
+    "@": "minecraft:netherite_upgrade_smithing_template"
   },
   "result": {
     "id": "extended_storage:wood_netherite_chest_upgrade"
   }
 }
+

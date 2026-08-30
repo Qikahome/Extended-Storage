@@ -1,13 +1,9 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "c:gems/emerald"
-    },
-    "X": {
-      "item": "extended_storage:old_diamond_chest"
-    }
+    "#": "#c:gems/emerald",
+    "X": "extended_storage:old_diamond_chest"
   },
   "pattern": [
     " # ",
@@ -18,3 +14,4 @@
     "id": "extended_storage:old_emerald_chest"
   }
 }
+

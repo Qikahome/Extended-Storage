@@ -1,13 +1,9 @@
-{
+﻿{
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "c:ingots/gold"
-    },
-    "X": {
-      "item": "extended_storage:iron_chest"
-    }
+    "#": "#c:ingots/gold",
+    "X": "extended_storage:iron_chest"
   },
   "pattern": [
     "###",
