@@ -39,7 +39,7 @@ echo.
 
 :: #################### 核心打包命令（jar命令，打包指定文件/文件夹） ####################
 :: jar cf ：c=创建Jar，f=指定Jar文件名，后面跟需要打包的所有文件/文件夹（严格对应你的列表）
-jar cf "%JAR_NAME%" assets data LICENSE META-INF pack.mcmeta things pack.png datapacks
+jar cf "%JAR_NAME%" assets data LICENSE META-INF pack.mcmeta things pack.png datapacks THIRD_PARTY_LICENSES.txt
 
 :: #################### 打包结果判断 ####################
 if exist "%JAR_NAME%" (
