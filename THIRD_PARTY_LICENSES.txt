@@ -1,0 +1,52 @@
+Extended Storage 内嵌与引用的第三方组件及其许可声明
+================================================
+
+本模组以 jar-in-jar 方式内嵌了 Json More；Json Things 为必需前置模组，未内嵌。
+内嵌组件自身携带的完整第三方声明，见对应嵌套 jar 内的 THIRD_PARTY_LICENSES.txt。
+除另有说明外，MIT 许可全文见文末。
+
+================
+Json More（已内嵌，jar-in-jar）
+Copyright (c) 2026 Qikahome
+Licensed under MIT License
+https://github.com/Qikahome/JsonMore
+
+其中以 jar-in-jar 方式内嵌了 AutoSizedGUI；并引用了下列组件的资源（未内嵌）：
+  - Create：JEI 控件贴图与分类布局参考，MIT
+================
+
+================
+AutoSizedGUI（经由 Json More 内嵌，jar-in-jar）
+Copyright (c) 2026 Qikahome
+Licensed under MIT License
+================
+
+================
+Json Things（必需前置模组，未内嵌）
+Copyright (c) 2021, David Quintana <gigaherz@gmail.com>
+Licensed under BSD 3-Clause
+https://github.com/gigaherz/JsonThings
+================
+
+The MIT License (MIT)
+
+Copyright (c) 2025-2026 奇卡之家（Qikahome）
+Copyright (c) 2023 Creators-of-Create
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
