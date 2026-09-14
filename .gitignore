@@ -43,7 +43,7 @@ $RECYCLE.BIN/
 # ===================== MC模组开发专属忽略 =====================
 # 手动打包的Jar包（避免提交，jarjar目录除外）
 *.jar
-!META-INF/jarjar/*.jar
+!META-INF/jars/*.jar
 # 本地配置文件
 config/
 # 测试用的MC实例

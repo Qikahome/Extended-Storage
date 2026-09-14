@@ -7,7 +7,7 @@
   ],
   "key": {
     "#": {
-      "type": "jsonmore:counted",
+      "fabric:type": "jsonmore:counted",
       "ingredient": {
         "item": "minecraft:netherite_ingot"
       },
@@ -18,7 +18,7 @@
       }
     },
     "*": {
-      "type": "jsonmore:counted",
+      "fabric:type": "jsonmore:counted",
       "ingredient": {
         "item": "minecraft:netherite_scrap"
       },

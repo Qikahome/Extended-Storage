@@ -1,14 +1,14 @@
 {
   "type": "jsonmore:item_application",
   "block": {
-    "type": "jsonmore:nbt_copy",
+    "fabric:type": "jsonmore:nbt_copy",
     "ingredient": {
       "item": "extended_storage:emerald_chest"
     },
     "mode": "REPLACE"
   },
   "tool": {
-    "type": "jsonmore:remainder_override",
+    "fabric:type": "jsonmore:remainder_override",
     "ingredient": {
       "item": "extended_storage:diamond_debris_chest_upgrade"
     },

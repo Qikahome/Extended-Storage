@@ -8,7 +8,7 @@
   ],
   "key": {
     "#": {
-      "tag": "forge:gems/diamond"
+      "tag": "extended_storage:ingredients/diamond"
     },
     "*": {
       "item": "extended_storage:wood_gold_chest_upgrade"

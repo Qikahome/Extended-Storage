@@ -8,7 +8,7 @@
   ],
   "key": {
     "#": {
-      "tag": "forge:ingots/gold"
+      "tag": "extended_storage:ingredients/gold_ingot"
     },
     "*": {
       "item": "extended_storage:wood_iron_chest_upgrade"

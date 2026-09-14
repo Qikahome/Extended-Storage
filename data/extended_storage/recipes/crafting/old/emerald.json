@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "#": {
-      "tag": "forge:gems/emerald"
+      "tag": "extended_storage:ingredients/emerald"
     },
     "X": {
       "item": "extended_storage:old_diamond_chest"

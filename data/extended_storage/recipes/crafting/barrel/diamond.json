@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "#": {
-      "tag": "forge:gems/diamond"
+      "tag": "extended_storage:ingredients/diamond"
     },
     "X": {
       "item": "extended_storage:golden_barrel"

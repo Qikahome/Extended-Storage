@@ -6,7 +6,7 @@
       "item": "minecraft:netherite_scrap"
     },
     {
-      "type": "jsonmore:remainder_override",
+      "fabric:type": "jsonmore:remainder_override",
       "ingredient": {
         "item": "extended_storage:emerald_chest"
       },

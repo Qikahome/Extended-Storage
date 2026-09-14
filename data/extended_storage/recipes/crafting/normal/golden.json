@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "#": {
-      "tag": "forge:ingots/gold"
+      "tag": "extended_storage:ingredients/gold_ingot"
     },
     "X": {
       "item": "extended_storage:iron_chest"

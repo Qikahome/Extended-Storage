@@ -3,8 +3,8 @@
   "category": "misc",
   "key": {
     "X": {
-      "type": "forge:difference",
-      "base": { "tag": "forge:chests/wooden" },
+      "fabric:type": "fabric:difference",
+      "base": { "tag": "extended_storage:ingredients/wooden_chest" },
       "subtracted": { "item": "extended_storage:wooden_chest" }
     }
   },

@@ -7,12 +7,12 @@
   ],
   "key": {
     "#": {
-      "tag": "forge:gems/diamond"
+      "tag": "extended_storage:ingredients/diamond"
     },
     "*": {
-      "type": "jsonmore:counted",
+      "fabric:type": "jsonmore:counted",
       "ingredient": {
-        "tag": "forge:ingots/gold"
+        "tag": "extended_storage:ingredients/gold_ingot"
       },
       "count": 0
     }

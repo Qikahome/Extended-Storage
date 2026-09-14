@@ -7,7 +7,7 @@
   ],
   "key": {
     "i": {
-      "tag": "forge:ingots/iron"
+      "tag": "extended_storage:ingredients/iron_ingot"
     },
     "c": {
       "tag": "extended_storage:containers"
