@@ -4,7 +4,7 @@ issueTrackerURL="https://github.com/Qikahome/Extended-Storage/issues"
 license="MIT"
 [[mods]]
     modId="extended_storage"
-    version="1.3.0c"
+    version="1.3.1"
     displayName="Extended Storage"
     description='''
     Something Contains Item
@@ -18,6 +18,6 @@ license="MIT"
 [[dependencies.extended_storage]]
     modId="jsonmore"
     mandatory=true
-    versionRange="[1.1.0,)"
+    versionRange="[1.2.11,)"
     ordering="NONE"
     side="BOTH"
