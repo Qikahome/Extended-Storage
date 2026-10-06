@@ -13,6 +13,7 @@
   "result": {
     "item": "extended_storage:emerald_barrel"
   },
+  "force_input": { "properties": { "connected": "false" } },
   "drop_container": false,
   "keep_block_state": true,
   "update_block": false,
