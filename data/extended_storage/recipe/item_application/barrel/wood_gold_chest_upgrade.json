@@ -1,4 +1,4 @@
-﻿{
+{
   "type": "jsonmore:item_application",
   "block": {
     "neoforge:ingredient_type": "jsonmore:nbt_copy",
@@ -12,6 +12,7 @@
   "result": {
     "id": "extended_storage:golden_barrel"
   },
+  "force_input": { "properties": { "connected": "false" } },
   "drop_container": false,
   "keep_block_state": true,
   "update_block": false,
