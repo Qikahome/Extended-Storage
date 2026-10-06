@@ -1,4 +1,4 @@
-﻿{
+{
   "type": "minecraft:smithing_transform",
   "addition": "minecraft:netherite_ingot",
   "base": "extended_storage:diamond_barrel",
