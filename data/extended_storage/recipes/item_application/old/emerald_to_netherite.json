@@ -20,6 +20,7 @@
   "result": {
     "item": "extended_storage:old_netherite_chest"
   },
+  "force_input": { "properties": { "connected": "false" } },
   "drop_container": false,
   "keep_block_state": true,
   "update_block": false,
